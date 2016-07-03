@@ -1,0 +1,16 @@
+/* Breakout Game */
+
+/* Canvas style */
+
+* {
+	padding: 10px;
+	margin: 0; 
+	}
+
+canvas { 
+	background-image: url("../images/back.png");
+	display: block;
+	margin: 0 auto;
+	border-style: double;
+	border-color:green;
+	}
